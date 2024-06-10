@@ -45,23 +45,8 @@ The Vana command line interface (`vanacli`) is the primary command line tool for
 It can be used to deploy nodes, manage wallets, stake/unstake, nominate, transfer tokens, and more.
 
 ### Setup vanacli
-Clone and set up the [vana-framework](https://github.com/vana-com/vana-framework) repository to use the `vanacli` to generate keys
-
 ```bash
-git clone git@github.com:vana-com/vana-framework.git
-cd vana-framework
-poetry install
-python setup_vanacli.py
-> vanacli command set up successfully!
-
-# Restart CLI to use `vanacli` command
-```
-
-## Run Tests
-To run the tests, you can use the following command. This is especially useful for local development.
-
-```bash
-pytest
+pip install vana
 ```
 
 ### Basic Usage
@@ -133,6 +118,13 @@ Be sure to store your mnemonics safely.
 If you lose your password to your wallet, or the access to the machine where the wallet is stored, you can always regenerate the coldkey using the mnemonic you saved from above.
 ```bash
 $ vanacli wallet regen_coldkey --mnemonic **** *** **** **** ***** **** *** **** **** **** ***** *****
+```
+
+## Run Tests
+To run the tests, you can use the following command. This is especially useful for local development.
+
+```bash
+pytest
 ```
 
 ## License
