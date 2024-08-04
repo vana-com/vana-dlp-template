@@ -42,8 +42,6 @@ Clone and set up the [vana-framework](https://github.com/vana-com/vana-framework
 git clone git@github.com:vana-com/vana-framework.git
 cd vana-framework
 poetry install
-python setup_vanacli.py
-> vanacli command set up successfully!
 
 # Restart CLI to use `vanacli` command
 ```
