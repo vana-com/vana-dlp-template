@@ -88,7 +88,7 @@ First, fund your metamask or other evm-compatible wallet from the faucet so you 
 Add the Satori Testnet to your metamask wallet: 
 ```bash
 Network name: Satori Testnet
-RPC URL: http://rpc.satori.vana.com
+RPC URL: http://rpc.satori.vana.org
 Chain ID: 14801
 Currency: DAT
 ```
