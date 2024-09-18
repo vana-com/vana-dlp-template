@@ -1,14 +1,14 @@
 <div align="center">
 
 # **Data Liquidity Pool Template** <!-- omit in toc -->
-[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/xx98TSE8)
+[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.com/invite/Wv2vtBazMR)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
 ### The first decentralized network for user-owned data <!-- omit in toc -->
 
-[Documentation](https://docs.vana.org/vana) • [Discord](https://discord.gg/xx98TSE8) • [Network](https://satori.vanascan.io)
+[Documentation](https://docs.vana.org/vana) • [Discord](https://discord.com/invite/Wv2vtBazMR) • [Network](https://satori.vanascan.io)
 
 </div>
 
