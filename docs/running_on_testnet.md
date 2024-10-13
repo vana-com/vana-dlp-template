@@ -28,7 +28,7 @@ real DAT, they cost you test DAT which you must get from a faucet. Testnet token
 Make sure to install the project dependencies:
 
 ```bash
-git clone git@github.com:vana-com/vana-dlp-template.git
+git clone https://github.com/vana-com/vana-dlp-template.git
 cd vana-dlp-template
 poetry install
 ```
@@ -39,7 +39,7 @@ Configure the environment variables by copying and modifying the `.env.example` 
 Clone and set up the [vana-framework](https://github.com/vana-com/vana-framework) repository to use the `vanacli` to generate keys
 
 ```bash
-git clone git@github.com:vana-com/vana-framework.git
+git clone https://github.com/vana-com/vana-framework.git
 cd vana-framework
 poetry install
 
